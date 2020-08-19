@@ -1,7 +1,5 @@
 ---
 layout: none
-permalink: .well-known/pki-validation/3A33CB70341587BCD2DFF6E2A97646B4.txt
+permalink: .well-known/acme-challenge/yxXuGoomfx1J0gI5coxRmyIy55JlGr7GnqDczExQoEE
 ---
-84E388A8E66CC3F05CEFFB4D7374841E8A1D7F6347066A0485DFE2153D0D8DE9
-comodoca.com
-f1f32e596dd0441
+yxXuGoomfx1J0gI5coxRmyIy55JlGr7GnqDczExQoEE.uLP_iqqEGyyHeBAS6GQ2sGwanYoYSCCakXcLNcrxHBs
